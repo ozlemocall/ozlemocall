@@ -10,7 +10,7 @@ Kayseri Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Mobil
 - IoT tabanlı güneş paneli enerji yönetimi mobil uygulaması **SolarMod** projesini geliştirdim. Bu projede UI/UX tasarımı, canlı veri takibi ve uygulama geliştirme süreçlerini yürüttüm.
 - Bana ulaşmak için: **ozimoc1000@gmail.com**
 
-## 🛠️ Teknik Beceriler
+## Teknik Beceriler
 
 - **Programlama Dilleri:** C, C++, C#, Python, SQL, Dart
 - **Mobil ve Web Teknolojileri:** Flutter, Android Studio, HTML, CSS
