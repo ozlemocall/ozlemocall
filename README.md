@@ -1,24 +1,43 @@
-# Merhaba, Ben Özlem Öcal 
+# Merhaba, Ben Özlem Öcal 👋
 
-Kayseri Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Mobil uygulama geliştirme, gömülü sistemler ve web tabanlı yazılımlar alanlarında projeler geliştiriyorum. Takım çalışmasına, araştırmaya ve problem çözmeye önem veriyor; teknik bilgi birikimimi gerçek projelerle geliştirmeye odaklanıyorum. Şu anda yazılım geliştirme ve bilgisayar mühendisliği alanlarında kendimi daha da ileri taşımak için staj fırsatları arıyorum.
+Kayseri Üniversitesi Bilgisayar Mühendisliği 4. sınıf öğrencisiyim. 
+Yazılım geliştirme, sistem ve ağ teknolojileri ve siber güvenlik alanlarında 
+kendimi geliştiriyor, öğrendiğim teknolojileri uygulamalı projelerle pekiştiriyorum.
 
-##  Neler Yapıyorum?
+Özellikle kurumsal ağ altyapıları, ağ güvenliği, sunucu sistemleri ve 
+uygulama geliştirme konularına ilgi duyuyorum. Takım çalışmasına, araştırmaya 
+ve problem çözmeye önem veriyorum. Teknik bilgimi gerçek projeler üzerinde 
+geliştirerek kariyerime güçlü bir teknik altyapıyla devam etmeyi hedefliyorum.
 
-- Kendi projelerimi ve teknik içeriklerimi paylaşmak için kişisel blog web sitem üzerinde çalışıyorum.
-- TÜBİTAK 2209-A projesinde ekip liderliği yapıyorum.
-- TEKNOFEST 2026 ROBOLİG kapsamında robotun kullanıcı arayüzü, donanım entegrasyonu ve sensör verilerinin arayüze aktarımı üzerine çalışıyorum.
-- IoT tabanlı güneş paneli enerji yönetimi mobil uygulaması **SolarMod** projesini geliştirdim. Bu projede UI/UX tasarımı, canlı veri takibi ve uygulama geliştirme süreçlerini yürüttüm.
-- Bana ulaşmak için: **ozimoc1000@gmail.com**
+## Neler Yapıyorum?
+
+- Kurumsal ağ ve sunucu altyapıları üzerine uygulamalı projeler geliştiriyorum.
+- VMware, FortiGate, Windows Server ve Ubuntu Server ile sanallaştırılmış ağ ve güvenlik altyapıları üzerinde çalışıyorum.
+- Active Directory, DNS, DHCP, Group Policy ve SFTP gibi sistem servislerini yapılandırıyorum.
+- Ağ segmentasyonu, firewall politikaları, erişim kontrolü ve güvenlik testleri üzerine çalışıyorum.
+- Flutter ile IoT ve mobil uygulama projeleri geliştiriyorum.
+- TÜBİTAK ve TEKNOFEST kapsamında takım projelerinde yer alıyorum.
+- Yeni teknolojileri öğrenerek özellikle siber güvenlik ve sistem/network alanlarında kendimi geliştiriyorum.
 
 ## Teknik Beceriler
 
 - **Programlama Dilleri:** C, C++, C#, Python, SQL, Dart
-- **Mobil ve Web Teknolojileri:** Flutter, Android Studio, HTML, CSS
-- **Temel Yetkinlikler:** Nesne Yönelimli Programlama (OOP), Veritabanı Tasarımı, CRUD İşlemleri
+- **Sistem & Network:** VMware Workstation, FortiGate, VLAN, TCP/IP, DNS, DHCP, Active Directory, Group Policy, OpenSSH/SFTP
+- **Sunucu Teknolojileri:** Windows Server, Ubuntu Server, Apache, Postfix, Dovecot, Roundcube
+- **Mobil & Web:** Flutter, Android Studio, HTML, CSS
+- **Veritabanı:** SQL, SQL Server
+- **Temel Yetkinlikler:** OOP, CRUD, ağ segmentasyonu, firewall politikaları, erişim kontrolü, sistem yönetimi
 
 ## Projelerimden Bazıları
 
-- **SolarMod Mobil Uygulaması:** Güneş enerjisi verilerinin takibi, panel kontrolü ve istatistik ekranları sunan IoT destekli mobil uygulama
-- **Kütüphane Otomasyon Sistemi:** C# ve SQL kullanılarak geliştirilen, kullanıcı yönetimi ve veritabanı tasarımı içeren web tabanlı sistem
-- **Amazon Benzeri E-Ticaret Modeli:** C# ve OOP prensipleriyle geliştirilen, sepet mantığı ve ürün listeleme özelliklerini içeren uygulama
-- **İnovatim Projeleri:** Yarışma kapsamında geliştirilen mobil uygulamada ekip liderliği; projeye ait tanıtım web sitesinde HTML/CSS ile arayüz geliştirme
+- **Virtualized Corporate Network & Security Infrastructure:** 
+  VMware Workstation üzerinde FortiGate, Open vSwitch, Windows Server ve Ubuntu Server kullanılarak oluşturulan; VLAN segmentasyonu, firewall politikaları, Active Directory, DNS/DHCP, SFTP ve mail servislerini içeren sanal kurumsal ağ altyapısı.
+
+- **SolarMod Mobil Uygulaması:** 
+  Güneş enerjisi sistemlerinin üretim, batarya ve panel durumlarının takip edilmesini sağlayan Flutter tabanlı IoT mobil uygulaması.
+
+- **Kütüphane Otomasyon Sistemi:** 
+  C# ve SQL kullanılarak geliştirilen, kullanıcı yönetimi ve veritabanı işlemlerini içeren web tabanlı sistem.
+
+- **E-Ticaret Uygulaması:** 
+  C# ve SQL kullanılarak geliştirilen; ürün listeleme, kategori, favoriler ve sepet işlemlerini içeren uygulama.
