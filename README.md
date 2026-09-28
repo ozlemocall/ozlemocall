@@ -43,4 +43,4 @@ Kayseri Üniversitesi Bilgisayar Mühendisliği 4. sınıf öğrencisiyim. **Yaz
   C# ve SQL kullanılarak geliştirilen; ürün listeleme, kategori, favoriler ve sepet işlemlerini içeren uygulama.
 
  - **Decision Tree Tabanlı Enerji Yük Analizi:**
- Python ve Scikit-learn kullanılarak enerji yük durumlarını sınıflandıran karar ağacı tabanlı model geliştirildi; veri ön işleme, model değerlendirme ve görselleştirme uygulandı.
+   Python ve Scikit-learn kullanılarak enerji yük durumlarını sınıflandıran karar ağacı tabanlı model geliştirildi; veri ön işleme, model değerlendirme ve görselleştirme uygulandı.
